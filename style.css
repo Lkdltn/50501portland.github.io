@@ -4,7 +4,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
-  background-color: #f4f4f4;
+  background: linear-gradient(to bottom, #e0f0ff, #ffffff);
   color: #333;
 }
 header {
